@@ -1113,11 +1113,11 @@ const list = {
         'id': 'pro_ios_ipad_mac',
         'latest': 'chxm1023'
     },
-    'com.moke.annotable': {
+    'com.Orga.Orga': {
         'cm': 'sjbla',
         'hx': 'hxpda',
-        'version': '168',
-        'id': 'com.moke.annotable.all',
+        'version': '46',
+        'id': '2.99_Pro',
         'latest': 'chxm1023'
     }
 };
