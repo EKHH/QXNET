@@ -1116,7 +1116,7 @@ const list = {
     'com.moke.annotable': {
         'cm': 'sjbla',
         'hx': 'hxpda',
-        'version': '1',
+        'version': '168',
         'id': 'com.moke.annotable.all',
         'latest': 'chxm1023'
     }
